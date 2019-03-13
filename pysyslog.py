@@ -9,7 +9,7 @@
 ## That's it... it does nothing else...
 ## There are a few configuration parameters.
 
-LOG_FILE = '/data/appix-system.log'
+LOG_FILE = '/data/operator.log'
 HOST, PORT = "0.0.0.0", 514
 
 #
